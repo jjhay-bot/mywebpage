@@ -6,7 +6,6 @@
     "build": "vite build",
     "serve": "vite preview",
     "deploy": "gh-pages -d dist"
-
   },
   "devDependencies": {
     "vite": "^2.5.4"
@@ -15,7 +14,6 @@
     "gh-pages": "^3.2.3",
     "three": "^0.132.2"
   },
-  "description": "",
   "main": "main.js",
   "repository": {
     "type": "git",
@@ -26,5 +24,6 @@
   "bugs": {
     "url": "https://github.com/jjhay-bot/mywebpage/issues"
   },
-  "homepage": "https://github.com/jjhay-bot/mywebpage#readme"
+  "homepage": "https://github.com/jjhay-bot/mywebpage#readme",
+  "description": ""
 }
